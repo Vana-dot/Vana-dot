@@ -1,5 +1,5 @@
 ### Olá! eu sou a Geovana 
- - 🌱 Estudando laravel 
+ - 🌱 Estudando ...
 <hr>
 <div>
   <a href="https://github.com/Vana-dot">
