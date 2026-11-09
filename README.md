@@ -14,8 +14,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Vana-dot/Vana-dot/output/github-contribution-grid-snake.svg" alt="Cobrinha das contribuições" width="100%">
-
 <div>
   <a href="https://www.linkedin.com/in/geovana-da-silva-dev-js/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:geovanavenancio5556@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
